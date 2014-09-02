@@ -1,0 +1,11 @@
+Test passed ___________________________________________________________
+
+
+file does not exit
+file exist
+
+fetch currency rates from the website API
+if the website does not work will use the default value, 
+let the client knows that the currency rates have not been updated
+
+transaction contains wrong data
